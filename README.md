@@ -1,5 +1,6 @@
 # sign-up-form
 - форма регистрации
+- использован vuelidate для валидации форм
 
 ## Project setup
 ```
