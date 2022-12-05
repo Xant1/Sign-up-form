@@ -1,7 +1,7 @@
 # sign-up-form
-- форма регистрации
-- библиотека vuelidate
-- vuelidate использован для валидации форм
+- form registration
+- liblary vuelidate
+- vuelidate was using for form validation
 
 ## Project setup
 ```
