@@ -1,6 +1,6 @@
 # sign-up-form
 - form registration
-- liblary vuelidate
+- vue.js liblary vuelidate
 - vuelidate was used to validate the form
 
 ## Project setup
